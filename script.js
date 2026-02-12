@@ -8,7 +8,7 @@ const messages = [
     "I will be very sad...",
     "I will be very very very sad...",
     "Oke fine, I will stop asking...",
-    "damn you though i'll give up? now you don't have a choice nyahahaha"
+    "damn you thought i'll give up? now you don't have a choice nyahahaha"
 ];
 
 let messageIndex = 0;
